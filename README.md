@@ -24,11 +24,10 @@ Here in this project:
 
 * then just run the server and go to http://127.0.0.1:8000/api/v1/ to see the Post List endpoint.
 
+- Total Apps (all projects) to be install in the end of this Django Rest Api Series are:
 
-* Total Apps (all projects) to be install in the end of this Django Rest Api Series are:
+- pipenv install djangorestframework==3.10.3
 
-pipenv install djangorestframework==3.10.3
+- pipenv install django-rest-auth==0.9.5     (for sepeate login and logout features on api page)
 
-pipenv install django-rest-auth==0.9.5     (for sepeate login and logout features on api page)
-
-pipenv install django-allauth==0.40.0      (for signup or registration page)
+- pipenv install django-allauth==0.40.0      (for signup or registration page)
