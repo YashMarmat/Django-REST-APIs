@@ -18,8 +18,12 @@ Here in this project:
 
 * then project level URL's file for location endpoints (just mentioning paths),
 
-* then create a url.py file in app level and import classes of views their and also work on paths,
+* then create a url.py file in app level and import classes (created in views.py file) there and then create new paths,
 
-* before that work on views.py file and serializers.py file.
+* dont forget to update urls.py file of project level.
+
+* then i worked on views.py file (see code) and serializers.py file.
+
+* basically serializers file contain those fields which is to be diplayed on api page.
 
 * then just run the server and go to http://127.0.0.1:8000/api/v1/ to see the Post List endpoint.
