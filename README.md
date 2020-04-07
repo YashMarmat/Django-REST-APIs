@@ -1,8 +1,8 @@
 # Django-REST-APIs
 
-A quick guide to create your own Django Apps with Django Rest Apis functionality :)
+* A quick guide to create your own Django Apps with Django Rest Apis functionality :)
 
-Steps to follow: 
+* Steps to follow: 
 
 1) first i created a simple model (basically a blog or post model),
 
