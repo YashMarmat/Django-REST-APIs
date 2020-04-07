@@ -1,6 +1,6 @@
--Here in this project:
+-Here in this project: 
 
-first i created a simple model,
+first i created a simple model (basically a blog or post model),
 registered it in admin file,
 ran tests,
 to work on django rest framework i installed it (pipenv install djangorestframework==3.10.3),
