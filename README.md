@@ -1,4 +1,5 @@
 # Django-REST-APIs
+
 Basic understanding of Django Rest Apis :)
 
 -Here in this project: 
@@ -15,7 +16,7 @@ before that work on views.py file and serializers.py file.
 then just run the server and go to http://127.0.0.1:8000/api/v1/ to see the Post List endpoint.
 
 
-# Total Apps (all projects) to be install in the end of this Django Rest Api Series are:
+* Total Apps (all projects) to be install in the end of this Django Rest Api Series are:
 
 pipenv install djangorestframework==3.10.3
 
