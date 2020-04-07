@@ -27,3 +27,5 @@
 * basically serializers file contain those fields which is to be diplayed on api page.
 
 11) then just run the server and go to http://127.0.0.1:8000/api/v1/ to see the Post List endpoint.
+
+DONE :)
