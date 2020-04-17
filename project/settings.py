@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Third Party Apps
-    'rest_framework',                   # django rest framework app (permissions Below)
+    'rest_framework',                   # django rest framework app (permissions at bottom)
 
     # My Apps
     'posts.apps.PostsConfig',           # app 1
