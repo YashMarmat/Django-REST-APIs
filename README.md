@@ -12,7 +12,7 @@
 
 4) to work on django rest framework i installed it (pipenv install djangorestframework==3.10.3),
 
-5) after installation mention it above your app (heading: third party app),
+5) after installation mention this app name in installed apps category (see settings.py file, heading: third party app),
 
 6) then in bottom of settings.py file mention django rest framework permissions,
 
